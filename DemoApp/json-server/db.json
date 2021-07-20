@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "qqweqwe",
+      "lastName": "asdasd",
+      "email": "qweqwe@gmail.com",
+      "mobile": "123123",
+      "salary": "2342342341asd"
+    },
+    {
+      "id": 3,
+      "firstName": "qqaaaaaa",
+      "lastName": "qqaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "email": "qq@gmail.com",
+      "mobile": "1231244",
+      "salary": "123123123"
+    },
+    {
+      "id": 4,
+      "firstName": "quang",
+      "lastName": "quw",
+      "email": "phamquang22@gmail.com",
+      "mobile": "123124",
+      "salary": "123123"
+    },
+    {
+      "id": 5,
+      "firstName": null,
+      "lastName": null,
+      "email": "quang@gmail.com",
+      "mobile": null,
+      "salary": null
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
